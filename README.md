@@ -1,3 +1,5 @@
+Projeto desenvolvido para fins de aprendizado sobre o framework Django
+
 Criando o venv:
 
 ```
