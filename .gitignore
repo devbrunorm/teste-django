@@ -3,3 +3,6 @@ lib
 include
 bin
 .vscode
+.env
+receitas/__pycache__
+alurareceita/__pycache__
